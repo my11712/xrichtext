@@ -1,0 +1,3 @@
+include ':xrichtext'
+include ':app'
+rootProject.name = "XrichtextLib"
